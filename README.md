@@ -7,7 +7,7 @@ ssh alex@8.139.252.156
 ```
 Password：GPSpi321!!
 
-## Document
+## Documents
 GEN AI Testing cases (desensitised).xlsx - all the ground truth cases given by business
 
 交易编码对应描述与校验 (desensitised).xlsx - narrative format dictionary
